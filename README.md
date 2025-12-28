@@ -77,7 +77,7 @@
 
 ## Сборка и запуск
 
-1. Поместить JAR obj.jar в папку `heroes/jars`, заменив исходный `obf.jar`.
+1. Поместить JAR build/libs/obj.jar в папку `heroes/jars`, заменив исходный `obf.jar`.
 2. Запустить игру командой:
 
 ```bash
